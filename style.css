@@ -188,6 +188,15 @@ select {
 #event-feedback {
     width: 100%;
     height: 166px;
+
+padding: 0 20px;
+    color: #67646d;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
 }
 
 .checkbox-wrapper {
